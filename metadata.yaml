@@ -30,6 +30,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Voyages and travels'
 - !lcc 'G'
+- GITenberg
 tableOfContents: 'Souvenirs de voyage: Suisse. Allemagne. Belgique. Rentrée en France
   -- Voyage en Angleterre: Jersey. Guernesey. Sercq. Retour à Guernesey. Londres.
   Windsor. Oxford.'
